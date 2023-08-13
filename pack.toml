@@ -1,0 +1,10 @@
+[custom.all.repro-test-issue]
+type = "local"
+path = "."
+ipkg = "repro-test-issue.ipkg"
+test = "test/test.ipkg"
+
+[custom.all.repro-test-issue-test]
+type = "local"
+path = "test"
+ipkg = "test.ipkg"
